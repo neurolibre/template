@@ -1,2 +1,3 @@
-# template
-Template repository for NeuroLibre preprint submissions. 
+## Preprint template
+
+Template repository for NeuroLibre preprint submissions.
