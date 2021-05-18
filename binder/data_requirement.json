@@ -1,4 +1,3 @@
 { "src": "from nilearn import datasets; datasets.fetch_development_fmri(data_dir=_dst, n_subjects=1);",
-  "dst": "/data",
   "projectName": "neurolibre_template",
   "recursive": true}
