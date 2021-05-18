@@ -18,9 +18,9 @@ repository:
 ---
 ### Step 3: Add your executable content under the `content` directory
 
-✅ You can add a mixture of `Jupyter Notebooks`, `MyST` formatted markdown and plain text markdown files.
-✅ You can organize your content in subfolders.
-❌ We don't accept (non-executable) plain text markdown files alone.
+* ✅ You can add a mixture of `Jupyter Notebooks`, `MyST` formatted markdown and plain text markdown files.
+* ✅ You can organize your content in subfolders.
+* ❌ We don't accept (non-executable) plain text markdown files alone.
 
 ### Step 4: Edit [_toc.yml](content/_toc.yml) according to your new content 
 
