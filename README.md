@@ -2,7 +2,7 @@
 
 Template repository for NeuroLibre reproducible preprint submissions.
 
-### Step 1: Click `Use this template button` and give a name to your new repository
+### Step 1: Click `Use this template button` and name your new repository
 
 ### Step 2: Do the following changes in [_config.yml](content/_config.yml)
 
