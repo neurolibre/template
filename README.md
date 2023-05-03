@@ -1,6 +1,6 @@
 ## Preprint template
 
-Template repository for NeuroLibre reproducible preprint submissions.
+Template repository for NeuroLibre reproducibe preprint submissions.
 
 ### Step 1: Click `Use this template button` and name your new repository
 
