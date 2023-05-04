@@ -1,15 +1,18 @@
 ---
 jupytext:
+  formats: md:myst
   text_representation:
+    extension: .md
     format_name: myst
+    format_version: 0.13
+    jupytext_version: 1.11.5
 kernelspec:
   display_name: Python 3
+  language: python
   name: python3
-repository:
-  url: https://github.com/neurolibre/template
 ---
 
-## What is MyST Markdown? 
+# What is MyST Markdown? 
 
 In addition to Jupyter Notebooks, Jupyter Book also supports a special flavour of Markdown called MyST (or Markedly Structured Text). It is designed to make it easier to create publishable computational documents written with Markdown notation.
 

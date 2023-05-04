@@ -6,4 +6,4 @@ parts:
     - file: 01-simple_notebook
   - caption: MyST
     chapters:
-    - file: 02-simple_myst
+    - file: 02-simple-myst
