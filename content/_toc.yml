@@ -1,5 +1,11 @@
 format: jb-article
 root: 00-simple_markdown
-sections:
-- file: 01-simple_notebook
-- file: 02-simple_myst
+
+parts:
+  - caption: Ipynb
+    chapters:
+    - file: 01-simple_notebook
+  
+  - caption: MyST
+    chapters:
+    - file: 02-simple_myst

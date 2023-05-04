@@ -35,11 +35,11 @@ html:
 # Launch button settings
 launch_buttons:
   notebook_interface        : classic  # The interface interactive links will activate ["classic", "jupyterlab"]
-  binderhub_url             : https://binder.conp.cloud  # The URL of the Neurolibre BinderHub
+  binderhub_url             : https://test.conp.cloud  # The URL of the Neurolibre BinderHub
   thebe                     : false  # Add a thebe button to pages (requires the repository to run on Binder)
 
 repository:
-  url                       : https://github.com/neurolibre/template  # The URL to your book's repository
+  url                       : https://github.com/agahkarakuzu/template  # The URL to your book's repository
   path_to_book              : "content"  # A path to your book's folder, relative to the repository root.
   branch                    : main  # Which branch of the repository should be used when creating links
 
