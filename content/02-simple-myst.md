@@ -44,6 +44,7 @@ The code cell below uses `Plotly` to generate a simple interactive figure. When 
 
 import plotly.express as px
 from plotly.offline import plot
+from IPython.core.display import HTML
 
 # Example dataset 
 df = px.data.gapminder()
