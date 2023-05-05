@@ -43,4 +43,10 @@ repository:
   path_to_book              : "content"  # A path to your book's folder, relative to the repository root.
   branch                    : main  # Which branch of the repository should be used when creating links
 
+
+html_theme_options:
+  logo:
+    image_light: "neurolibre-logo.png"
+    image_dark: "neurolibre-logo.png"
+
 #######################################################################################
