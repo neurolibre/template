@@ -50,7 +50,7 @@ from plotly.offline import plot
 from IPython.core.display import HTML
 
 # Example dataset 
-df = px.data.gapmindero()
+df = px.data.gapminder()
 
 # Scatter plot with slider
 fig = px.scatter(df.query("year==2007"), x="gdpPercap", y="lifeExp", size="pop", color="continent",
