@@ -14,7 +14,7 @@ author                      : John Doe, Jane Doe  # Add author names
 repository:
   url: https://github.com/neurolibre/template  # The URL to your new repository
 ```
-> At this stage, you are ready to use [RoboNeuro preview service](https://roboneuro.herokuapp.com/) to get your first book build.
+> At this stage, you are ready to use [RoboNeuro preview service](https://robo.neurolibre.org) to get your first book build.
 ---
 ### Step 3: Add your executable content under the `content` directory
 
